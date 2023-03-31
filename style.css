@@ -1,0 +1,48 @@
+.navigation{
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+  .navigation{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    background-color: blue;
+    height: 50px;
+  }
+
+
+h1{
+    list-style: none;
+}
+
+
+  .first-section{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px;
+    border-right: 2px solid black;
+}
+
+.first-section{
+    display: flex
+    flex-direction: column;
+    gap: 30px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    height: 100px;
+    font-size: 30px;
+}
+
+* {
+    margin: 0;
+}
